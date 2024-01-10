@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,c as n,d as p,e as m,l as a,n as s,o as f,p as c,s as d,y as l}from"./chunk-T4OEXKBI.mjs";var u=(()=>{let o=class o{constructor(){this.title="angular-web"}};o.\u0275fac=function(e){return new(e||o)},o.\u0275cmp=r({type:o,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(e,y){e&1&&(i(0,"h1"),p(1,"Hola Angular desde Github pages"),n())},dependencies:[s]});let t=o;return t})();var g=[];var v={providers:[l(g),c()]};var h={providers:[d()]},C=a(v,h);var b=()=>f(u,C),z=b;export{z as a};
