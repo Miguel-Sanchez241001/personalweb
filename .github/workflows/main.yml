@@ -33,7 +33,7 @@ jobs:
 
         # Install dependencies
       - name: Install deps
-        run: npm 1
+        run: npm i
       # build app for prodction
       - name: build app bundle
         run: npm run build:prod
